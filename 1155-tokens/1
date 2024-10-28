@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "image": "https://zacharycouchman.github.io/1155-crafting-metadata/1155-tokens/wood.jpg",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Wood (resource)",
+  "description": "Strong wood used for building many things",
+  "external_url": null,
+  "attributes": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "image": "https://zacharycouchman.github.io/1155-crafting-metadata/1155-tokens/stone.jpg",
+  "token_id": "2",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Stone (resource)",
+  "description": "Stone, useful for building many items",
+  "external_url": null,
+  "attributes": []
+}
