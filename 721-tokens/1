@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "image": "https://zacharycouchman.github.io/1155-crafting-metadata/721-tokens/goldaxe.jpg",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Gold plated axe",
+  "description": "Rare axe with gold plating",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 10
+    },
+    {
+      "trait_type": "Shine",
+      "value": 10
+    }
+  ]
+}
